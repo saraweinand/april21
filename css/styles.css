@@ -1,17 +1,17 @@
 
-html.no-touch #no-touch {
+html.no-touch #home {
 	width: 25%;
 }
 
-html.no-touch #touch {
+html.no-touch #phone {
 	display: none;
 }
 
-html.touch #no-touch {
+html.touch #phone {
 	width: 25%;
 }
 
-html.touch #touch {
+html.touch #home {
 	display: none;
 }
 
