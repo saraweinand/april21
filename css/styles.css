@@ -3,12 +3,13 @@ html.no-touch #home {
 	width: 25%;
 }
 
-html.no-touch #phone {
-	display: none;
-}
-
 html.touch #phone {
 	width: 25%;
+}
+
+
+html.no-touch #phone {
+	display: none;
 }
 
 html.touch #home {
